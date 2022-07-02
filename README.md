@@ -1,4 +1,4 @@
-# StringSearchAlgorithm
+# StringSearchArrayAlgorithm
 
 **Boyer-Moore algorithm**: Algorithm that searches for text occurrences in string by performing explicit character comparisons at different alignments.</br>
 **Z Algorithm**: Algorithm which finds all occurrences of a pattern in a text in linear time.</br>
